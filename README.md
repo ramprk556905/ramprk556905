@@ -28,7 +28,7 @@ class RamKumar:
         self.role           = "Senior QA Engineer"
         self.location       = "Bangalore, India"
         self.degree         = "B.E. Mechanical Engineering"
-        self.experience     = "6+ years"
+        self.experience     = "7+ years"
 
         self.stack = [
             "Python", "JavaScript", "Playwright",
@@ -224,5 +224,3 @@ print(me.motto())
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 ---
-
-✅ All username placeholders now point to **`ramprk556905`** — stats cards, streak, activity graph, trophy wall, and project links are wired correctly. Just drop this into a repo named `ramprk556905/ramprk556905` (a special repo that GitHub auto-renders on your profile), commit as `README.md`, and you're live.
